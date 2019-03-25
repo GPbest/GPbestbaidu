@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>GPbestt</title>
+	<title>GPbest</title>
 </head>
 <body>
 	<h1>本站由GP开发、维护和运营<h1>
