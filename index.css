@@ -42,3 +42,14 @@ div h2{
   height: 258px;
   border-radius: 4px;
 }
+.introduction{
+  border: 1px #FFF0F5 solid;
+  border-radius:5px;
+  background-color:#FFF0F5  ;
+}
+div span{
+  color:#FFB6C1  ;
+  font-size: 15px;
+  line-height: 25px;
+  text-shadow:2px 2px 4px #E6E6FA ;
+}
