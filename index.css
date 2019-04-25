@@ -1,0 +1,44 @@
+*{
+	margin:0;
+	padding:0;
+}
+.container{
+	border: 1px #FFF0F5 solid;
+	border-radius: 20px;
+	width:700px;
+	margin:0 auto;
+	padding-bottom:20px;
+}
+div h2{
+  color: #fff;
+  margin-top: 20px;
+  text-align: center;
+  text-shadow:2px 2px 4px #000;//水平偏移量和垂直偏移量设置相同的值
+ }
+ .flex-container {
+    margin:10px auto;
+    display: -webkit-flex;
+    display: flex;
+    width: 700px;
+    height: 300px;
+    background-color:#FFE4E1;
+}
+
+.flex-item {
+    background-color:#FFF0F5 ;
+    width: 220px;
+    height: 280px;
+    margin:8px;
+    border-radius: 7px;
+}
+.flex-item span{
+  color: #fff;
+  font-size: 15px;
+  line-height: 15px;
+  text-shadow:2px 2px 4px #000;//水平偏移量和垂直偏移量设置相同的值
+}
+.flex-item img{
+  width: 220px;
+  height: 258px;
+  border-radius: 4px;
+}
